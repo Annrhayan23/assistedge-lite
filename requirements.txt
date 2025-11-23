@@ -1,0 +1,7 @@
+
+pyautogui
+mouse
+keyboard
+streamlit
+pillow
+selenium

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "click",
+    "position": [500, 300]
+  },
+  {
+    "type": "key_press",
+    "key": "enter"
+  },
+  {
+    "type": "click",
+    "position": [600, 400]
+  },
+  {
+    "type": "key_press",
+    "key": "tab"
+  },
+  {
+    "type": "click",
+    "position": [700, 200]
+  },
+  {
+    "type": "key_press",
+    "key": "space"
+  },
+  {
+    "type": "click",
+    "position": [400, 500]
+  },
+  {
+    "type": "key_press",
+    "key": "esc"
+  }
+]
